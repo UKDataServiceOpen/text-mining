@@ -7,7 +7,7 @@ The first webinar covers the concepts behind fully structured and semi-unstructu
 
 ## 2. Text-Mining: Basic Processes
 This webinar dives into the steps needed to do some of the most common text-mining analyses and will be accompanied by an online interactive notebook that allows participants to see, edit and execute the demonstrated code.
-* [Watch recording]
+* [Watch recording](https://www.youtube.com/watch?v=T6K7BibhSTA)
 * [Download slides]
 
 ## 3. Text-Mining: Advanced Options
