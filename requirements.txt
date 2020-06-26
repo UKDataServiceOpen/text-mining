@@ -6,3 +6,4 @@ autocorrect>=1.2.1
 spacy>=2.2.4
 tqdm>=4.46.1
 numpy>=1.18.5
+matplotlib>=3.1.3
