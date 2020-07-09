@@ -12,5 +12,5 @@ This webinar dives into the steps needed to do some of the most common text-mini
 
 ## 3. Text-Mining: Advanced Options
 This webinar rounds off the series by diving into the concepts behind more advanced text-mining analyses, presenting some sample code that participants may find useful, and introducing some work that provides further learning opportunities. This webinar will also be accompanied by an online interactive notebook that allows participants to see, edit and execute the demonstrated code.
-* [Watch recording]
+* [Watch recording](https://www.youtube.com/watch?v=pEs3jOlwbaI)
 * [Download slides](./Text-Mining_Advanced_widescreen.pdf)
