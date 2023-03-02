@@ -9,3 +9,6 @@ Once Binder has been launched, click on the notebook you want to run. (*Don't wo
 ### Launch Text-mining for Social Science Research as a Binder service: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/text-mining/HEAD)<br>
 
 Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](https://github.com/UKDataServiceOpen/computational-social-science/blob/master/installation.md).
+
+
+**NOTE: If you encounter any errors when running the code in Binder (or when running this in Jupyter notebooks) please either fork the code and let us know or contact us via: louise.capener@manchester.ac.uk and I'll sort it!**
