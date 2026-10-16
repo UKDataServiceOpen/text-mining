@@ -1,7 +1,7 @@
 ![UKDS Logo](./images/Logo.png)<br>
 <br>
-# Repository_template
-A template to help create standardised repos for UKDS projects 
+# Text-mining
+This repository is under construction. Work is being done to ensure that all data shared complies with the terms, conditions and best practice of data sharing.
 
 ## Topics 
 
